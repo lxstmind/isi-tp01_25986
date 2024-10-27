@@ -1,0 +1,76 @@
+2024-10-27 12:43:30.508 - Spoon - Transformation opened.
+2024-10-27 12:43:30.510 - Spoon - Launching transformation [Transformation 1]...
+2024-10-27 12:43:30.511 - Spoon - Started the transformation execution.
+2024-10-27 12:43:30.770 - Transformation 1 - Expedindo in�cio para transforma��o [Transformation 1]
+2024-10-27 12:43:30.797 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2024-10-27 12:43:30.864 - XML output.0 - Opening output stream in encoding: UTF-8
+2024-10-27 12:43:30.925 - CSV file input.0 - Header row skipped in file 'C:\Users\lxstm\OneDrive - Instituto Politécnico do Cávado e do Ave\LESI\3º ano\S1\Integração de Sistemas de Informação\riaa.csv'
+2024-10-27 12:43:30.927 - CSV file input.0 - Finished processing (I=31, O=0, R=0, W=30, U=0, E=0)
+2024-10-27 12:43:30.934 - Alteração do Nome das Variaveis.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:30.948 - Retira Caracteres Especiais.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:30.964 - Remove "'".0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:30.995 - Modifica Valores Nulos.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:31.025 - Apenas Letra Inicial Maiúscula.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:31.056 - Artist ID em Maiúsculo.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:31.087 - Filtra Artistas com Mais de 75 Unidades Certificadas.0 - Finished processing (I=0, O=0, R=30, W=8, U=0, E=0)
+2024-10-27 12:43:38.948 - Delay row.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.335 - REST client.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.339 - JSON input.0 - Finished processing (I=8, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.343 - Remoção de Dados Inuteis.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.347 - Taxa de Platinas em Relação a Unidades Certificadas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.349 - Ordena Por Ordem Crescente Por Unidades Certificadas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.354 - Soma de Dois Certificados.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.359 - Text file output.0 - Finished processing (I=0, O=9, R=8, W=16, U=0, E=0)
+2024-10-27 12:43:39.365 - XML output.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.368 - JSON output.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:39.371 - Spoon - The transformation has finished!!
+2024-10-27 12:43:44.343 - Spoon - Iniciando o job...
+2024-10-27 12:43:44.345 - GET artistas - Start of job execution
+2024-10-27 12:43:44.351 - GET artistas - Starting entry [rm prev.html]
+2024-10-27 12:43:44.363 - rm prev.html - File [C:\Users\lxstm\OneDrive - Instituto Politécnico do Cávado e do Ave\LESI\3º ano\S1\Integração de Sistemas de Informação\prev.html] deleted!
+2024-10-27 12:43:44.364 - GET artistas - Starting entry [GET artistas]
+2024-10-27 12:43:44.389 - GET artistas - Using run configuration [Pentaho local]
+2024-10-27 12:43:44.391 - Transformation 1 - Expedindo in�cio para transforma��o [Transformation 1]
+2024-10-27 12:43:44.398 - XML output.0 - Opening output stream in encoding: UTF-8
+2024-10-27 12:43:44.402 - CSV file input.0 - Header row skipped in file 'C:\Users\lxstm\OneDrive - Instituto Politécnico do Cávado e do Ave\LESI\3º ano\S1\Integração de Sistemas de Informação\riaa.csv'
+2024-10-27 12:43:44.403 - CSV file input.0 - Finished processing (I=31, O=0, R=0, W=30, U=0, E=0)
+2024-10-27 12:43:44.409 - Alteração do Nome das Variaveis.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:44.414 - Retira Caracteres Especiais.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:44.418 - Remove "'".0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:44.422 - Modifica Valores Nulos.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:44.427 - Apenas Letra Inicial Maiúscula.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:44.432 - Artist ID em Maiúsculo.0 - Finished processing (I=0, O=0, R=30, W=30, U=0, E=0)
+2024-10-27 12:43:44.436 - Filtra Artistas com Mais de 75 Unidades Certificadas.0 - Finished processing (I=0, O=0, R=30, W=8, U=0, E=0)
+2024-10-27 12:43:52.415 - Delay row.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.598 - REST client.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.614 - JSON input.0 - Finished processing (I=8, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.645 - Remoção de Dados Inuteis.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.649 - Taxa de Platinas em Relação a Unidades Certificadas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.676 - Ordena Por Ordem Crescente Por Unidades Certificadas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.679 - Soma de Dois Certificados.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.684 - Text file output.0 - Finished processing (I=0, O=9, R=8, W=16, U=0, E=0)
+2024-10-27 12:43:52.694 - JSON output.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.694 - XML output.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2024-10-27 12:43:52.697 - GET artistas - Starting entry [prev.xml existe]
+2024-10-27 12:43:52.700 - GET artistas - Starting entry [XSL transformation]
+2024-10-27 12:43:52.967 - GET artistas - Starting entry [htmlAsAmbient]
+2024-10-27 12:43:52.979 - htmlAsAmbient - Using run configuration [Pentaho local]
+2024-10-27 12:43:52.980 - htmlAsAmbient - Expedindo in�cio para transforma��o [htmlAsAmbient]
+2024-10-27 12:43:52.990 - Text file input.0 - Opening file: file:///C:/Users/lxstm/OneDrive%20-%20Instituto%20Politécnico%20do%20Cávado%20e%20do%20Ave/LESI/3º%20ano/S1/Integração%20de%20Sistemas%20de%20Informação/prev.html
+2024-10-27 12:43:53.000 - Text file input.0 - Finished processing (I=136, O=0, R=0, W=135, U=1, E=0)
+2024-10-27 12:43:53.018 - Group by.0 - Finished processing (I=0, O=0, R=135, W=1, U=0, E=0)
+2024-10-27 12:43:53.020 - SetStringAmbient.0 - Setting environment variables...
+2024-10-27 12:43:53.020 - SetStringAmbient.0 - Set variable HTML to value [   <meta charset="utf-8">   <head>      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>					table {					font-family: arial, sans-serif;					border-collapse: collapse;					width: 100%;					}					td, th {					border: 1px solid #dddddd;					text-align: left;					padding: 8px;					}					th {					background-color: #f0f0f0; /* Tom de cinza claro */					font-weight: bold; /* Negrito */					}					tr:nth-child(even) {					background-color: #f2f2f2;					}				</style></head>   <body>      <h2>Artistas com Mais de 75 Unidades Certificadas</h2>      <table>         <tr>            <th style="text-align:center">Artist</th>            <th style="text-align:center">Certified Units</th>            <th style="text-align:center">Gold</th>            <th style="text-align:center">Platinum</th>            <th style="text-align:center">Multi-Platinum</th>            <th style="text-align:center">Diamond</th>            <th style="text-align:center">Country</th>            <th style="text-align:center">Life Span Begin</th>            <th style="text-align:center">Platinum Rate</th>            <th style="text-align:center">Gold Plus Diamond</th>         </tr>         <tr>            <td style="text-align:center">Elton John</td>            <td style="text-align:center"> 079</td>            <td style="text-align:center"> 39</td>            <td style="text-align:center"> 27</td>            <td style="text-align:center"> 14</td>            <td style="text-align:center"> 1</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">2</td>            <td style="text-align:center">40</td>         </tr>         <tr>            <td style="text-align:center">Billy Joel</td>            <td style="text-align:center"> 085</td>            <td style="text-align:center"> 23</td>            <td style="text-align:center"> 13</td>            <td style="text-align:center"> 07</td>            <td style="text-align:center"> 1</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">6</td>            <td style="text-align:center">24</td>         </tr>         <tr>            <td style="text-align:center">Michael Jackson</td>            <td style="text-align:center"> 089</td>            <td style="text-align:center"> 17</td>            <td style="text-align:center"> 11</td>            <td style="text-align:center"> 08</td>            <td style="text-align:center"> 1</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">8</td>            <td style="text-align:center">18</td>         </tr>         <tr>            <td style="text-align:center">Led Zeppelin</td>            <td style="text-align:center"> 111</td>            <td style="text-align:center"> 18</td>            <td style="text-align:center"> 13</td>            <td style="text-align:center"> 10</td>            <td style="text-align:center"> 1</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">8</td>            <td style="text-align:center">19</td>         </tr>         <tr>            <td style="text-align:center">Eagles</td>            <td style="text-align:center"> 120</td>            <td style="text-align:center"> 24</td>            <td style="text-align:center"> 18</td>            <td style="text-align:center"> 12</td>            <td style="text-align:center"> 3</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">6</td>            <td style="text-align:center">27</td>         </tr>         <tr>            <td style="text-align:center">Elvis Presley</td>            <td style="text-align:center"> 146</td>            <td style="text-align:center"> 54</td>            <td style="text-align:center"> 38</td>            <td style="text-align:center"> 27</td>            <td style="text-align:center"> 1</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">3</td>            <td style="text-align:center">55</td>         </tr>         <tr>            <td style="text-align:center">Garth Brooks</td>            <td style="text-align:center"> 157</td>            <td style="text-align:center"> 60</td>            <td style="text-align:center"> 36</td>            <td style="text-align:center"> 22</td>            <td style="text-align:center"> 9</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">4</td>            <td style="text-align:center">69</td>         </tr>         <tr>            <td style="text-align:center">The Beatles</td>            <td style="text-align:center"> 183</td>            <td style="text-align:center"> 48</td>            <td style="text-align:center"> 42</td>            <td style="text-align:center"> 26</td>            <td style="text-align:center"> 6</td>            <td style="text-align:center">GB</td>            <td style="text-align:center">1960</td>            <td style="text-align:center">4</td>            <td style="text-align:center">54</td>         </tr>      </table>   </body></html>]
+2024-10-27 12:43:53.034 - SetStringAmbient.0 - Finished after 1 rows.
+2024-10-27 12:43:53.034 - SetStringAmbient.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024-10-27 12:43:53.036 - GET artistas - Starting entry [Mail]
+2024-10-27 12:44:03.295 - GET artistas - Finished job entry [Mail] (result=[true])
+2024-10-27 12:44:03.295 - GET artistas - Finished job entry [htmlAsAmbient] (result=[true])
+2024-10-27 12:44:03.296 - GET artistas - Finished job entry [XSL transformation] (result=[true])
+2024-10-27 12:44:03.296 - GET artistas - Finished job entry [prev.xml existe] (result=[true])
+2024-10-27 12:44:03.296 - GET artistas - Finished job entry [GET artistas] (result=[true])
+2024-10-27 12:44:03.296 - GET artistas - Finished job entry [rm prev.html] (result=[true])
+2024-10-27 12:44:03.296 - GET artistas - Job execution finished
+2024-10-27 12:44:03.297 - Spoon - O Job finalizou.
+2024-10-27 12:48:03.705 - Spoon - Spoon  foi finalizado.
+stopping
